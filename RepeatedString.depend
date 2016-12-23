@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1482379109 source:/home/jenny/CodingPractice/C++/RepeatedString/main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<cmath>
+
